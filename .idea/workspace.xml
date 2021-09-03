@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c2a15d4-bd5b-42ea-a514-09dfcd0f661e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kded-kebc-cso-formplugin-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/classloader/MyClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/classloader/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/haier/HaierFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/tcl/TCLFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/factorymethod/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/factorymethod/Benz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/factorymethod/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/facade/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/facade/TaxOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/MiddleNumber1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/MiddleNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/chainofreposibility/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/chainofreposibility/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/chainofreposibility/Leader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/chainofreposibility/Leader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/chainofreposibility/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/chainofreposibility/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/command/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/command/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/command/CocreteCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/command/CocreteCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/command/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/command/Invoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/command/Invoke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/command/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/command/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/command/Reciver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/command/Reciver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/interpreter/AndExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/interpreter/AndExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/interpreter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/interpreter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/interpreter/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/interpreter/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/interpreter/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/interpreter/Expression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/interpreter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/interpreter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/interpreter/TerminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/interpreter/TerminalExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/iterator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/iterator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/iterator/ConcreteCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/iterator/ConcreteCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/iterator/MyCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/iterator/MyCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/iterator/MyIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/iterator/MyIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/iterator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/iterator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/mediator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/mediator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/mediator/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/mediator/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/mediator/Development.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/mediator/Development.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/mediator/Finacial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/mediator/Finacial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/mediator/Leader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/mediator/Leader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/mediator/Market.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/mediator/Market.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/mediator/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/mediator/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/mediator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/mediator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/memento/CareTaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/memento/CareTaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/memento/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/memento/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/memento/Emp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/memento/Emp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/memento/EmpMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/memento/EmpMemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/memento/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/memento/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/observer/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/observer/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/observer/ConcreteObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/observer/ConcreteObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/observer/ConcreteSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/observer/ConcreteSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/observer/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/observer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/observer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/observer/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/state/BlockState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/state/BlockState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/state/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/state/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/state/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/state/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/state/DeadState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/state/DeadState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/state/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/state/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/state/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/state/WaitState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/state/WaitState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/strategy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/strategy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/strategy/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/strategy/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/strategy/NewCust.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/strategy/NewCust.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/strategy/OldCust.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/strategy/OldCust.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/strategy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/strategy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/strategy/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/strategy/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/templatemethod/BankTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/templatemethod/BankTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/templatemethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/templatemethod/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/templatemethod/DrawMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/templatemethod/DrawMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/templatemethod/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/templatemethod/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/visitor/CEOVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/visitor/CEOVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/visitor/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/visitor/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/visitor/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/visitor/Engineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/visitor/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/visitor/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/visitor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/visitor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/visitor/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/visitor/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/action/visitor/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/action/visitor/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/AirConditioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/AirConditioner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/MachineFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/MachineFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/TV.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/WashMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/WashMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/haier/HaierAirConditioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/haier/HaierAirConditioner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/haier/HaierFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/haier/HaierTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/haier/HaierTV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/haier/HaierWashMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/haier/HaierWashMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/tcl/TCLAirConditioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/tcl/TCLAirConditioner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/tcl/TCLFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/tcl/TCLTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/tcl/TCLTV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/abstractfactory/tcl/TCLWashMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/abstractfactory/tcl/TCLWashMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/builder/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/builder/CPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/builder/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/builder/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/builder/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/builder/ComputerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/builder/ComputerBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/builder/ComputerDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/builder/ComputerDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/builder/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/builder/Keyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/builder/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/builder/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/builder/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/builder/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/builder/ThinkpadComputerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/builder/ThinkpadComputerBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/builder/ThinkpadComputerDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/builder/ThinkpadComputerDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/factorymethod/Audi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/factorymethod/AudiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/factorymethod/AudiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/factorymethod/Benz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/factorymethod/BenzFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/factorymethod/BenzFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/factorymethod/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/factorymethod/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/factorymethod/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/factorymethod/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/factorymethod/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/factorymethod/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/factorymethod/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/prototype/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/prototype/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/prototype/DeepPrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/prototype/DeepPrototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/prototype/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/prototype/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/prototype/ShallowPrototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/prototype/ShallowPrototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/prototype/Sheep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/prototype/Sheep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/simplefactory/Audi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/simplefactory/Audi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/simplefactory/Benz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/simplefactory/Benz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/simplefactory/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/simplefactory/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/simplefactory/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/simplefactory/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/simplefactory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/simplefactory/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/simplefactory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/simplefactory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/singleton/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/singleton/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/singleton/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/singleton/Singleton1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/singleton/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/singleton/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/singleton/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/singleton/Singleton3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/create/singleton/Singleton4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/create/singleton/Singleton4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/adapter/Adaptee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/adapter/Adaptee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/adapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/adapter/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/adapter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/adapter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/adapter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/adapter/Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/adapter/Target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/bridge/Brand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/bridge/Brand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/bridge/Clinet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/bridge/Clinet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/bridge/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/bridge/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/bridge/Dell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/bridge/Dell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/bridge/Lenovo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/bridge/Lenovo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/bridge/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/bridge/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/bridge/Pad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/bridge/Pad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/bridge/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/bridge/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/composite/AbstractFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/composite/AbstractFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/composite/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/composite/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/composite/Folder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/composite/Folder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/composite/ImageFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/composite/ImageFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/composite/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/composite/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/composite/TextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/composite/TextFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/composite/VideoFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/composite/VideoFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/decorator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/decorator/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/decorator/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/decorator/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/decorator/Drink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/decorator/DrinkDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/decorator/DrinkDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/decorator/Ice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/decorator/Ice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/decorator/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/decorator/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/decorator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/decorator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/decorator/Suger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/decorator/Suger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/facade/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/facade/BankOfChina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/facade/BankOfChina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/facade/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/facade/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/facade/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/facade/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/facade/RegFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/facade/RegFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/facade/SZTaxOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/facade/SZTaxOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/facade/TaxOffice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/flyweight/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/flyweight/Chess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/flyweight/ChessFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/flyweight/ChessFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/flyweight/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/flyweight/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/flyweight/Coordinate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/flyweight/Coordinate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/flyweight/CorcreteChess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/flyweight/CorcreteChess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/flyweight/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/flyweight/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/proxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/proxy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/proxy/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/proxy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/proxy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/proxy/RealPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/proxy/RealPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/proxy/dynamic/PersonHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/proxy/dynamic/PersonHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/designpartner/struct/proxy/statics/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/designpartner/struct/proxy/statics/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/chainofreposibility/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/chainofreposibility/Leader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/command/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/command/CocreteCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/command/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/command/Invoke.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/command/Reciver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/interpreter/AndExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/interpreter/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/interpreter/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/interpreter/Expression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/interpreter/TerminalExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/iterator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/iterator/ConcreteCollections$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/iterator/ConcreteCollections$ConcreteIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/iterator/ConcreteCollections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/iterator/MyCollections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/iterator/MyIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/mediator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/mediator/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/mediator/Development.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/mediator/Finacial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/mediator/Leader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/mediator/Market.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/mediator/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/memento/CareTaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/memento/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/memento/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/memento/EmpMemento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/observer/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/observer/ConcreteObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/observer/ConcreteSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/observer/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/state/BlockState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/state/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/state/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/state/DeadState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/state/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/state/WaitState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/strategy/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/strategy/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/strategy/NewCust.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/strategy/OldCust.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/strategy/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/templatemethod/BankTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/templatemethod/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/templatemethod/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/templatemethod/DrawMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/visitor/CEOVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/visitor/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/visitor/Engineer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/visitor/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/visitor/Staff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/action/visitor/Visitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/AirConditioner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/MachineFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/TV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/WashMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/haier/HaierAirConditioner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/haier/HaierFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/haier/HaierTV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/haier/HaierWashMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/tcl/TCLAirConditioner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/tcl/TCLFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/tcl/TCLTV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/abstractfactory/tcl/TCLWashMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/builder/CPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/builder/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/builder/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/builder/ComputerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/builder/ComputerDirector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/builder/Keyboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/builder/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/builder/ThinkpadComputerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/builder/ThinkpadComputerDirector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/factorymethod/Audi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/factorymethod/AudiFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/factorymethod/Benz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/factorymethod/BenzFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/factorymethod/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/factorymethod/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/factorymethod/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/prototype/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/prototype/DeepPrototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/prototype/ShallowPrototype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/prototype/Sheep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/simplefactory/Audi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/simplefactory/Benz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/simplefactory/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/simplefactory/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/simplefactory/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/singleton/Singleton1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/singleton/Singleton2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/singleton/Singleton3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/singleton/Singleton3$Singleton3Holder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/singleton/Singleton3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/create/singleton/Singleton4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/adapter/Adaptee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/adapter/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/adapter/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/adapter/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/bridge/Brand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/bridge/Clinet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/bridge/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/bridge/Dell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/bridge/Lenovo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/bridge/PC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/bridge/Pad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/composite/AbstractFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/composite/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/composite/Folder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/composite/ImageFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/composite/TextFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/composite/VideoFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/decorator/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/decorator/Coffee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/decorator/Drink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/decorator/DrinkDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/decorator/Ice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/decorator/Milk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/decorator/Suger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/facade/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/facade/BankOfChina.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/facade/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/facade/RegFacade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/facade/SZTaxOffice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/facade/TaxOffice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/flyweight/Chess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/flyweight/ChessFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/flyweight/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/flyweight/Coordinate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/flyweight/CorcreteChess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/proxy/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/proxy/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/proxy/RealPerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/proxy/dynamic/PersonHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/designpartner/struct/proxy/statics/Proxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1umsNZ6KRphveRrCGIj3ttUXnAP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../my-react/react-server" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.40689656" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\javaProject\demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MiddleNumber1">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.classloader.Client" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.classloader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiddleNumber1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.leetcode.MiddleNumber1" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClassLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.classloader.MyClassLoader" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.classloader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiddleNumber1" />
+        <item itemvalue="Application.MyClassLoader" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c2a15d4-bd5b-42ea-a514-09dfcd0f661e" name="Default Changelist" comment="" />
+      <created>1625282059379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625282059379</updated>
+      <workItem from="1625282066340" duration="15551000" />
+      <workItem from="1626230242667" duration="1192000" />
+      <workItem from="1627627267180" duration="16807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625887157446">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2334" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625887157446" />
+    <state x="2685" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1625884699040">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2685" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625884699040" />
+    <state x="2659" y="445" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1625884203798">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2659" y="445" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625884203798" />
+    <state x="715" y="232" key="#xdebugger.evaluate" timestamp="1627631830394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="232" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1627631830394" />
+    <state x="2635" y="241" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625885659192" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1629198617409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1629198617409" />
+    <state width="1876" height="340" key="GridCell.Tab.0.bottom" timestamp="1629198619613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1629198619613" />
+    <state width="1876" height="356" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625886174926" />
+    <state width="1876" height="359" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628654549733" />
+    <state width="1876" height="340" key="GridCell.Tab.0.center" timestamp="1629198619613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1629198619613" />
+    <state width="1876" height="356" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625886174926" />
+    <state width="1876" height="359" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628654549733" />
+    <state width="1876" height="340" key="GridCell.Tab.0.left" timestamp="1629198619613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1629198619613" />
+    <state width="1876" height="356" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625886174925" />
+    <state width="1876" height="359" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628654549733" />
+    <state width="1876" height="340" key="GridCell.Tab.0.right" timestamp="1629198619613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1629198619613" />
+    <state width="1876" height="356" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625886174926" />
+    <state width="1876" height="359" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628654549733" />
+    <state width="1876" height="340" key="GridCell.Tab.1.bottom" timestamp="1629198619613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1629198619613" />
+    <state width="1876" height="356" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625886175672" />
+    <state width="1876" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1628654151689" />
+    <state width="1876" height="340" key="GridCell.Tab.1.center" timestamp="1629198619613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1629198619613" />
+    <state width="1876" height="356" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625886175672" />
+    <state width="1876" height="340" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1628654151689" />
+    <state width="1876" height="340" key="GridCell.Tab.1.left" timestamp="1629198619613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1629198619613" />
+    <state width="1876" height="356" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625886175672" />
+    <state width="1876" height="340" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1628654151689" />
+    <state width="1876" height="340" key="GridCell.Tab.1.right" timestamp="1629198619613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="340" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1629198619613" />
+    <state width="1876" height="356" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625886175672" />
+    <state width="1876" height="340" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1628654151689" />
+    <state x="2381" y="157" key="SettingsEditor" timestamp="1625649023184">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1625306172157" />
+    <state x="2381" y="157" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625649023184" />
+    <state x="681" y="260" width="582" height="505" key="StructurePopup" timestamp="1628848815596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="260" width="582" height="505" key="StructurePopup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1628848815596" />
+    <state x="2601" y="270" width="582" height="524" key="StructurePopup/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625886163919" />
+    <state x="2418" y="279" width="672" height="678" key="search.everywhere.popup" timestamp="1625646471345">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2418" y="279" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1625646471345" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/classloader/Client.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/ClassLoader.java</url>
+          <line>315</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/leetcode/MiddleNumber1.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/leetcode/MiddleNumber1.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/leetcode/MiddleNumber1.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/leetcode/MiddleNumber1.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
